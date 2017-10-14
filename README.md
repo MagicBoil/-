@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到江江的小屋
 
 You can use the [editor on GitHub](https://github.com/MagicBoil/magicboil.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
