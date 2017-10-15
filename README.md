@@ -16,12 +16,12 @@
 
 景天科拟石莲花属的植物。由于叶片表面覆盖着一层厚霜粉，通常呈现出白色;日照增多，温差增大后叶缘、叶尖会呈现出粉红色或橙红色。
 
-![芙蓉雪莲图片](http://imglf1.ph.126.net/qsXz5vAja2CPr07XiVOKJQ==/719731515549295054.jpg)
+![芙蓉雪莲图片](http://cdn.duitang.com/uploads/item/201203/12/20120312141007_eEiyx.jpeg)
 ### 常见多肉植物之  _[桃之卵](https://baike.so.com/doc/6986735-7209530.html)_
 
 景天科风车草属，是一种颜色鲜艳而梦幻、造型可爱且充满吸引力的多肉植物、也称多浆植物。醉美人和桃之卵的拉丁文学名相同，所以是同一品种。
 
-![桃之卵图片](http://cdn.duitang.com/uploads/blog/201408/15/20140815161605_8sByZ.jpeg)
+![桃之卵图片](http://imgx.xiawu.com/xzimg/i4/i3/TB1jviJHVXXXXa3XFXXXXXXXXXX_!!0-item_pic.jpg)
 
 ### 常见多肉植物之  _[熊童子](https://baike.so.com/doc/5577474-5791165.html)_
 
