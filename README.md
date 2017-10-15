@@ -12,6 +12,7 @@
 花瓣被蜡，叶排成延长的莲座状被白粉。平时为绿色日照充足时叶色朱红带褐色，叶呈瓜子型叶末较尖，开黄色小花，星状。
 
 ![姬胧月图片](https://github.com/MagicBoil/picture/blob/screen/4404ea2a73e73c0b97ef27e7aa68_551_659.c6.jpg)
+![姬胧月图片](http://imgx.xiawu.com/xzimg/i4/i1/17137020614401033/T1SQhMXqBeXXXXXXXX_!!0-item_pic.jpg)
 ```markdown
 Syntax highlighted code block
 
