@@ -11,31 +11,18 @@
 
 花瓣被蜡，叶排成延长的莲座状被白粉。平时为绿色日照充足时叶色朱红带褐色，叶呈瓜子型叶末较尖，开黄色小花，星状。
 
-![姬胧月图片](https://github.com/MagicBoil/picture/blob/screen/4404ea2a73e73c0b97ef27e7aa68_551_659.c6.jpg)
 ![姬胧月图片](http://imgx.xiawu.com/xzimg/i4/i1/17137020614401033/T1SQhMXqBeXXXXXXXX_!!0-item_pic.jpg)
-```markdown
-Syntax highlighted code block
+### 常见多肉植物之  [芙蓉雪莲](https://baike.so.com/doc/25402820-26426620.html)
 
-# Header 1
-## Header 2
-### Header 3
+景天科拟石莲花属的植物。由于叶片表面覆盖着一层厚霜粉，通常呈现出白色;日照增多，温差增大后叶缘、叶尖会呈现出粉红色或橙红色。
 
-- Bulleted
-- List
+![芙蓉雪莲图片](http://imglf1.ph.126.net/qsXz5vAja2CPr07XiVOKJQ==/719731515549295054.jpg)
+ ### 常见多肉植物之  [桃之卵](https://baike.so.com/doc/6986735-7209530.html)
 
-1. Numbered
-2. List
+景天科风车草属，是一种颜色鲜艳而梦幻、造型可爱且充满吸引力的多肉植物、也称多浆植物。醉美人和桃之卵的拉丁文学名相同，所以是同一品种。
 
-**Bold** and _Italic_ and `Code` text
+![桃之卵图片](http://cdn.duitang.com/uploads/blog/201408/15/20140815161605_8sByZ.jpeg)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MagicBoil/magicboil.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
