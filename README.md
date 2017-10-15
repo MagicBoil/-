@@ -1,9 +1,8 @@
-## 欢迎来到江江的小屋
+#                                                  **多肉知识小科普**
 
-You can use the [editor on GitHub](https://github.com/MagicBoil/magicboil.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  多肉植物是指植物营养器官肥大的高等植物，通常具根、茎、叶三种营养器官和花、果实、种子三种繁殖器官。在园艺上，又称肉质植物或多肉花卉，但以多肉植物这个名称最为常用。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+  多肉植物在中国也很常见，如[景天属](https://baike.so.com/doc/5857154-6069997.html)、[伽兰菜属](https://baike.so.com/doc/6425107-6638779.html）的一些品种一般在农村的屋顶上也会出现，山野中也时有野生的块根种类，只不过中国人不太重视这些植物种类，没有开发成为商品。现今韩国、日本等国家将他们培育出来销往世界各地。
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
