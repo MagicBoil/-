@@ -17,13 +17,16 @@
 景天科拟石莲花属的植物。由于叶片表面覆盖着一层厚霜粉，通常呈现出白色;日照增多，温差增大后叶缘、叶尖会呈现出粉红色或橙红色。
 
 ![芙蓉雪莲图片](http://imglf1.ph.126.net/qsXz5vAja2CPr07XiVOKJQ==/719731515549295054.jpg)
- ### 常见多肉植物之  [桃之卵](https://baike.so.com/doc/6986735-7209530.html)
+### 常见多肉植物之  [桃之卵](https://baike.so.com/doc/6986735-7209530.html)
 
 景天科风车草属，是一种颜色鲜艳而梦幻、造型可爱且充满吸引力的多肉植物、也称多浆植物。醉美人和桃之卵的拉丁文学名相同，所以是同一品种。
 
 ![桃之卵图片](http://cdn.duitang.com/uploads/blog/201408/15/20140815161605_8sByZ.jpeg)
 
+### 常见多肉植物之  [熊童子](https://baike.so.com/doc/5577474-5791165.html)
 
-### Support or Contact
+景天科、银波锦属植物，是一种被子多肉植物，叶片有绒毛，像熊的爪子。一般市场价为25到150元。原产于非洲的纳米比亚。夏季高温容易死亡，冬季保持五摄氏度即可安全越冬。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![熊童子图片](http://img.zcool.cn/community/01a35e554bc7d3000001bf7230a63c.jpg)
+
+######就先介绍这么多咯！ 如果想了解更多欢迎关注[护花网](http://www.aihuhua.com/zhuti/duorouzhiwu/)
